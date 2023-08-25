@@ -1,2 +1,2 @@
-import python
+import so
 python.mogid()
